@@ -1,0 +1,19 @@
+# Git
+.git/
+.gitignore
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+
+# Generated database (created fresh by setup_db.py at startup)
+resources/store.db
+
+# Docs & local tooling
+README.md
+
